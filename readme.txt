@@ -1,7 +1,3 @@
-Of course! Here's your text rewritten neatly and clearly:
-
----
-
 # 🐍 Python Version Requirement
 You must have **Python 3.6 or above** installed to run the code.
 
@@ -64,7 +60,3 @@ To use WolframAlpha in the project:
 
 # ⚠️ Important
 > Ensure all installations and path changes are done correctly before running the project to avoid errors.
-
----
-
-Would you also like me to prepare a ready-to-share PDF or Markdown version of this? 📄🚀
