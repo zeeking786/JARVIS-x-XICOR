@@ -1,0 +1,22 @@
+---------//----------
+import ...
+import ...
+import ...
+import ...
+import ...
+---------//----------
+Client ID of wolframAlpha
+Declare root
+---------//----------
+def speak //make the audio file 
+def JoCommand //recognizer of user voice in hindi
+def greetMe //according to time
+def shutdown // control py cmd
+def gooffline //control by cmd and system
+---------//----------
+class Widget
+	def __init__(self) // all widgets are stored in constructor
+	def changeLang(self) // language change
+	def assistant(self) //all command w.r.t Hindi
+if __name__ == '__main__' //constructor close
+---------//----------
